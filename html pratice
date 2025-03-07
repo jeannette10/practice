@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Practice</title>
+</head>
+<body>
+    <h1>Jeannette.K.Menasu</h1>
+    <h2>My major is Information Technology</h2>
+    <p>This is my first paragraph for the hands-on activity.</p>
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+    </ul>
+  <p<a href="https://www.bible.com/">Favorite Website</a>
+    <br>
+    <p<a href="mailto:kom958214@ccbcmd.edu">Email Me</a>
+</body>
+</html>
